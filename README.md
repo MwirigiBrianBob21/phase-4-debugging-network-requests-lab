@@ -63,10 +63,15 @@ developing your own process.
 - Add a new toy when the toy form is submitted
 
   - How I debugged:
+  Corrected the model name to singular for class Toy.
 
 - Update the number of likes for a toy
 
   - How I debugged:
+
+  1. Created a custom routes for handling likes off of frontend.
+  2. Created the 'increment_likes' controller action
+  3. Render json data for updated toy
 
 - Donate a toy to Goodwill (and delete it from our database)
 
