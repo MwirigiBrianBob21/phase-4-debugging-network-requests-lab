@@ -76,3 +76,4 @@ developing your own process.
 - Donate a toy to Goodwill (and delete it from our database)
 
   - How I debugged:
+  1. added destroy to resources
